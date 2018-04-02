@@ -1,2 +1,2 @@
 # ColorGame
-Repositório apenas para teste
+A color game made with CSS and JavaScript
